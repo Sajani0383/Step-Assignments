@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class StepProblem3 {
+public class DNS_Cache {
     static class Entry {
         String ip;
         long expiryTime;
