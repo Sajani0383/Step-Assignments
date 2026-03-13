@@ -31,7 +31,7 @@ class ParkingLot {
     public static void showParking() {
         System.out.println("\nParking Lot Status:");
         for (int i = 0; i < SIZE; i++) {
-            System.out.println("Spot " + i + " : " + spots[i]);
+            System.out.println("Spot  " + i + " : " + spots[i]);
         }
     }
     public static void main(String[] args) {
