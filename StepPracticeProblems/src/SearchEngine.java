@@ -22,6 +22,7 @@ public class SearchEngine{
         addQuery("object oriented programming");
         addQuery("steamgames");
         addQuery("instagram");
+        addQuery("youtubeshorts");
         Scanner sc = new Scanner(System.in);
         System.out.print("Type search prefix: ");
         String prefix = sc.nextLine();
