@@ -28,7 +28,7 @@ public class financialTransaction{
             }
             map.put(arr[i],i);
         }
-        System.out.println("No pair found");
+        System.out.println("No pair found ");
     }
     public static void twoSumTimeWindow(List<Transaction> list, int target){
         HashMap<Integer,Transaction> map = new HashMap<>();
